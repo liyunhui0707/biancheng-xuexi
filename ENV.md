@@ -7,8 +7,6 @@
 #Day7 practive
 
 
-<<<<<<< HEAD
 93
-=======
 92
->>>>>>> new_feature
+92
