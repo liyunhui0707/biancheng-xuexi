@@ -7,4 +7,4 @@
 #Day7 practive
 
 
-95
+92
