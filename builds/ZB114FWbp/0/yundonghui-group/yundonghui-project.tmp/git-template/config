@@ -1,0 +1,10 @@
+[init]
+	defaultBranch = none
+[fetch]
+	recurseSubmodules = false
+[credential]
+	interactive = never
+[gc]
+	autoDetach = false
+[include]
+	path = /Users/liyunhui/practice/week1_project/builds/ZB114FWbp/0/yundonghui-group/yundonghui-project.tmp/.gitlab-runner.ext.conf
