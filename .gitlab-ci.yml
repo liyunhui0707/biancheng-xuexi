@@ -24,6 +24,9 @@ test_job:
     expire_in: 7 days
     paths:
       - .cache/pip/
+  rules:
+    - if: '$CI_COMMIT_BRANCH == "main"'
+
 
 report_job:
   stage: report
@@ -34,4 +37,6 @@ report_job:
     expire_in: 7 days
     paths:
       - .
+  rules:
+    - if: '$CI_COMMIT_BRANCH == "main"'
 
